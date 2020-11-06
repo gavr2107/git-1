@@ -1,0 +1,10 @@
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\bin\Debug\Veru_Neveru.exe.config
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\bin\Debug\Veru_Neveru.exe
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\bin\Debug\Veru_Neveru.pdb
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\obj\Debug\Veru_Neveru.csprojAssemblyReference.cache
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\obj\Debug\Veru_Neveru.Form1.resources
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\obj\Debug\Veru_Neveru.Properties.Resources.resources
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\obj\Debug\Veru_Neveru.csproj.GenerateResource.cache
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\obj\Debug\Veru_Neveru.csproj.CoreCompileInputs.cache
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\obj\Debug\Veru_Neveru.exe
+H:\Геймдев\C#\HW8_Гаврилов\Veru_Neveru\obj\Debug\Veru_Neveru.pdb
